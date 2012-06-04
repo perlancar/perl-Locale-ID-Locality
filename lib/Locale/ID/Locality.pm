@@ -531,7 +531,7 @@ our $data = [
 # generate-date: Fri Mar 23 14:28:20 2012
 # generated-by: /mnt/home/s1/repos/gudang-data-interim/bin/gen-perl-meta-snippet
 our $meta = {
-  "columns" => {
+  "fields" => {
     bps_code => {
       "index" => 0,
       "schema" => ["int*", { max => 9999, min => 1101 }],
