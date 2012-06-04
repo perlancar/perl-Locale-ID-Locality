@@ -601,7 +601,7 @@ Indonesia. Data is currently retrieved from the B<gudang-data-interim>
 repository at
 https://github.com/sharyanto/gudang-data-interim/tree/master/data/ind_locality/
 
-This module's functions have L<Sub::Spec> specs.
+This module's functions have L<Rinci> specs.
 
 
 =head1 FUNCTIONS
