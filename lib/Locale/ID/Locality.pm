@@ -600,11 +600,6 @@ https://github.com/sharyanto/gudang-data-interim/tree/master/data/ind_locality/
 This module's functions have L<Rinci> specs.
 
 
-=head1 FUNCTIONS
-
-None are exported by default, but they are exportable.
-
-
 =head1 SEE ALSO
 
 L<list-id-localities>
